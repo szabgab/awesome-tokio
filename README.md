@@ -14,9 +14,18 @@ See also [awesome-axum](https://github.com/szabgab/awesome-axum)
 * [Rust - Tokio AsyncIO Agents](https://www.youtube.com/playlist?list=PLtbwxVtHxPeIYJtu1g53FgLPGN9WYgG2l) by Boy Maas (2020.04.10)
 * [Getting started with Tokio. The ultimate starter guide to writing async Rust.](https://www.youtube.com/watch?v=dOzrO40jgbU) by Dreams of Code (2023.03.02)
 * [Intro to async/.await in Rust](https://www.youtube.com/watch?v=K8LNPYNvT-U) by Bogdan of Let's Get Rusty. (2022.06.08)
+* [1 Hour Dive into Asynchronous Rust](https://www.youtube.com/watch?v=0HwrZp9CBD4) by Hebert Wolverson of Ardan Labs (2023.08.02)
 
 
+## Official
+
+* [Tokio blog](https://tokio.rs/blog)
 
 
+## 🖼️ Project showcases
+
+## 🖼️ Project showcases (old)
+
+* [fred.rs](https://github.com/azuqua/fred.rs/) A Redis client for Rust based on Futures and Tokio that supports PubSub commands, clustered Redis deployments, and more. (tokio 0.1.17; archived)
 
 
