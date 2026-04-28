@@ -1,4 +1,4 @@
-# awesome-tokio
+# Awesome Tokio
 
 [Tokio](https://tokio.rs/) is an asynchronous runtime for the [Rust programming language](https://rust-lang.org/). It provides the building blocks needed for writing network applications. It gives the flexibility to target a wide range of systems, from large servers with dozens of cores to small embedded devices.
 
